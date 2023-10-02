@@ -1,3 +1,6 @@
+## Some Modifications in this repo
+1. Use Jitpack to build
+2. Port to 1.16
 # Milk lib
 Literally just adds milk, to act as a bridge for any other mods that want to do the same.
 See the `Milk` class for customisation; It allows for enabling of milk cauldrons and bottles.
